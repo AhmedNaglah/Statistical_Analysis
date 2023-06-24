@@ -12,6 +12,10 @@ Also, includes ggplots that embedd statistical comparisons using
 
 https://www.rdocumentation.org/packages/ggpubr/versions/0.6.0/topics/stat_compare_means
 
+For more information
+
+http://rpkgs.datanovia.com/ggpubr/reference/stat_compare_means.html
+
 
 ## Prerequisit 
 
